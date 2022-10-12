@@ -1,25 +1,29 @@
+body {
+  background-color: lightblue;
+}
+
 .Title {
   color: orange;
   text-align: center;
-  font-size: 50px;
+  font-size: 40px;
   font-family: "Lucida Console", "Courier New", monospace;
 }
 
 .Header {
   color: orange;
-  font-size: 30px;
+  font-size: 20px;
   font-family: "Lucida Console", "Courier New", monospace;
 }
 
 .info {
   color: orange;
-  font-size: 25px;
+  font-size: 15px;
   font-family: "Lucida Console", "Courier New", monospace;
 }
 
 .images {
-  width: 300px;
-  height: 300px;
+  width: auto;
+  height: auto;
 }
 
 table, tr, td {
